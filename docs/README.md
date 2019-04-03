@@ -1,6 +1,6 @@
 **Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build_failing.svg)](https://github.com/BrandonsGitRepo/VirtualAssistant/tree/master/assistant)
 
-## *WARNING: THIS APPLICATION IS NOT PRODUCTION READY. IT WILL NOT WORK IN ITS CURRENT STATE.*
+* # *WARNING: THIS APPLICATION IS NOT PRODUCTION READY. IT WILL NOT WORK IN ITS CURRENT STATE.*
 
 
 # VirtualAssistant
