@@ -1,4 +1,4 @@
-**Build Status**: [![Build Status](https://github.com/BrandonsGitRepo/repo-badges/blob/master/svg/build-passing.svg)](https://github.com/BrandonsGitRepo/virtual-assistant/tree/master/assistant)
+**Build Status**: [![Build Status](https://img.shields.io/badge/build-FAIL-red.svg)](https://github.com/BrandonsGitRepo/virtual-assistant/tree/master/assistant)
 
 
 # virtual-assistant
