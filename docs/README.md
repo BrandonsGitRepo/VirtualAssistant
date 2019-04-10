@@ -1,5 +1,9 @@
 **Build Status**: [![Build Status](https://img.shields.io/badge/build-FAIL-red.svg)](https://github.com/BrandonsGitRepo/virtual-assistant/tree/master/assistant)
 
+```
+## WARNING : This application is outdated and needs refactoring.
+```
+
 
 # virtual-assistant
 
