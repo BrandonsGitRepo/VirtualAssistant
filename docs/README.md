@@ -11,7 +11,7 @@ Virtual assistant project written in in Python 2.7. Does things like read news a
 ```
   - git clone
   - cd to/file/path
-  - run "python3
+  - run python3 main.py
 ```
 
 ### Prerequisites
