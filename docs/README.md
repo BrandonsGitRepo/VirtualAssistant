@@ -23,7 +23,9 @@ Virtual assistant project written in in Python 2.7. Does things like read news a
 What things you need to install the software and how to install them
 
 ```
+
 pip3 install json
+
 ```
 
 ### Installing
