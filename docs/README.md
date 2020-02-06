@@ -1,6 +1,6 @@
 [![Build Status](https://img.shields.io/badge/build-FAIL-red.svg)](https://github.com/BrandonsGitRepo/virtual-assistant/tree/master/assistant)
 
-## WARNING : This application does not work in its current state.
+## WARNING : This application does not work in its current state. This application needs updating.
 
 
 # virtual-assistant
