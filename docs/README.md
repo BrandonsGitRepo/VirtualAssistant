@@ -83,7 +83,7 @@ Please read [CONTRIBUTING.md](https://github.com/BrandonsGitRepo/virtual-assista
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/BrandonsGitRepo/virtual-assistant/tags).
 
-## Authors
+## Author
 
 * **Brandon Bailey** - *Initial work* - [BrandonsGitRepo](https://github.com/BrandonsGitRepo)
 
