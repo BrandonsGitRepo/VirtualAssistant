@@ -101,4 +101,4 @@ This project is licensed under the GNU License - see the [LICENSE.md](https://gi
 
 ## Hosting
 
-Site is hosted here : [Project site](https://brandonsgitrepo.github.io/virtual-assistant/)
+Site is hosted here : [Project site](https://brandon-kyle-bailey.github.io/virtual-assistant/)
