@@ -1,4 +1,5 @@
-[![Build Status](https://img.shields.io/badge/build-FAIL-red.svg)](https://github.com/BrandonsGitRepo/virtual-assistant/tree/master/assistant)
+[![Build Status](https://img.shields.io/badge/build-FAIL-red.svg)](https://github.com/brandon-kyle-baliley/friday/tree/master/assistant)
+
 
 ## WARNING : This application does not work in its current state. This application needs updating.
 
